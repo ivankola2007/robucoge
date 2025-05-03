@@ -2,7 +2,7 @@
     "name": "playerinputactions",
     "maps": [
         {
-            "name": "Character Controller",
+            "name": "CharacterController",
             "id": "432d6de3-cc1e-42d2-9f75-167c746654a1",
             "actions": [
                 {
